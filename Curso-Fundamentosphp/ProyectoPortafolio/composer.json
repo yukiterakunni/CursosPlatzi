@@ -1,0 +1,13 @@
+{
+    "name": "italomoralesf/slug",
+    "description": "Proyecto de prueba para explicar Composer",
+    "type": "project",
+    "require": {
+        "illuminate/database": "^5.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
