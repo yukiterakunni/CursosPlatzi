@@ -47,7 +47,7 @@ $cat = new category('');
     <div class="row">
       <div class="col">
         <h2 class="border-bottom-gray" >Adicionar Categoria</h2>
-        <form action="">
+        <form action="" method="POST">
             <div class="form-group row">
                 <label for="inputName" class="col-sm-2 col-form-label">Nombre:</label>
                 <div class="col-sm-10">
